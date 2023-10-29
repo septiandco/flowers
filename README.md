@@ -1,6 +1,6 @@
 # Kado
 -Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
--const audioTune = new Audio("https://github.com/cre8ture/audioFilesForBl/blob/main/yours.mp3")
+-Landing page : https://github.com/septiandwica
 
 # Description
 Flower code tiktok trend  
